@@ -1,5 +1,9 @@
-import java.math.BigDecimal;
-import java.text.DecimalFormat;
+/**
+ * Aaron Howe
+ * HW5: Sieve of Eratosthenes
+ * Standard
+ */
+
 import java.util.InputMismatchException;
 import java.util.Iterator;
 import java.util.Scanner;

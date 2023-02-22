@@ -1,6 +1,18 @@
+/**
+ * Aaron Howe
+ * HW5: Sieve of Eratosthenes
+ * Standard
+ */
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
+
+/**
+ * Class MySieve to implement the functionality of the Sieve Algorithm
+ * @author Aaron Howe
+ * @version JDK 17
+ */
 
 public class MySieve implements Sieve {
 
